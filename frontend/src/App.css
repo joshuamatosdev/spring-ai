@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(49, 49, 49, 0.02) 0%, rgba(85, 85, 148, 0.13) 35%, rgba(14, 110, 117, 0.09) 100%);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+}
