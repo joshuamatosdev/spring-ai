@@ -1,11 +1,11 @@
 # Spring Boot +React + TypeScript + Vite
 
-#Spring Boot AI Application
-##Overview
+# Spring Boot AI Application
+## Overview
 
 This application is a full-stack project integrating a React frontend with a Spring Boot backend. It allows users to interact with a ChatGPT-like AI, send messages, and view responses in a dynamic data grid.
 
-##Features
+## Features
 - AI Message Interaction: Users can send messages and receive AI-generated responses.
 - Search Functionality: Ability to search through the AI messages.
 - Responsive UI: Built with Material-UI for a responsive and modern interface.
