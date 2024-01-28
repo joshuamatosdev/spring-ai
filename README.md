@@ -18,7 +18,7 @@ This application is a full-stack project integrating a React frontend with a Spr
 
 ### Prerequisites
 1. Node.js and npm
-2. Java JDK 11+
+2. Java JDK 17+
 3. Gradle
 
 ### Installation
